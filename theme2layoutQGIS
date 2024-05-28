@@ -16,5 +16,5 @@ QGIS projet
 
 In QGIS project the filterbyMap function is related with "Filter Legend By Map Content" tool. 
 
-Sugestion: This action should not be activated when we have "layouts by themes". In other words, the themes that are based on specified info from layers - categorized (symbol) - the filter map legend tool should not be used. 
+Sugestion: This action should not be activated when we have "layouts by themes". In other words, the themes that are based on specified info from layers - categorized (symbol) - the filter map legend tool should not be actived. 
 
