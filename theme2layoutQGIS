@@ -14,4 +14,5 @@ QGIS projet
 
 ----------
 In QGIS project this function is related with "Filter Legend By Map Content". 
-This action should not be activated when we have "layouts by themes" and themes which are based on layers that used the categorized (symbol) for specified info. 
+This action should not be activated when we have "layouts by themes". In other words, the themes that are based on specified info from layers - categorized (symbol) - the filter map legend tool should not be used. 
+
