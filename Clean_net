@@ -1,0 +1,4 @@
+--Presença de falta conectividade ente arcos
+
+snap, rmdangle e chdangle, prune
+treshold=5
