@@ -1,3 +1,9 @@
+--EDICAO: preenchi todas as inhas e agua
+
+Remover pseudos-nos numa linha quero apenas um arco
+v.Build.polylines
+multipart to sinlge
+
 --Presença de falta conectividade ente arcos
 
 snap, rmdangle e chdangle, prune
