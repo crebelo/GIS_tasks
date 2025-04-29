@@ -1,0 +1,2 @@
+visible_layers = [layer.name() for layer in QgsProject.instance().layerTreeRoot().findLayers() if layer.isVisible()]
+print("Layers in active theme:", visible_layers)
